@@ -1,0 +1,22 @@
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Controller\ErrorHandlerController.php:28	Avoid unused parameters such as '$args'.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Curl\Curl.php:42	The variable $decoded_result is not named in camelCase.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Curl\Curl.php:42	The variable $decoded_result is not named in camelCase.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Curl\Curl.php:42	Avoid variables with short names like $ip. Configured minimum length is 3.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Curl\Curl.php:77	The variable $decoded_result is not named in camelCase.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Curl\Curl.php:77	The variable $decoded_result is not named in camelCase.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Curl\Curl.php:77	The variable $decoded_result is not named in camelCase.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Curl\Curl.php:77	The variable $decoded_result is not named in camelCase.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Curl\Curl.php:77	The variable $decoded_result is not named in camelCase.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Curl\Curl.php:77	The variable $decoded_result is not named in camelCase.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Curl\Curl.php:77	The variable $decoded_result is not named in camelCase.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Curl\Curl.php:115	Avoid variables with short names like $mh. Configured minimum length is 3.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Validate\Validate.php:53	Avoid variables with short names like $ip. Configured minimum length is 3.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Validate\Validate.php:76	Avoid variables with short names like $ip. Configured minimum length is 3.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Validate\Validate.php:98	The variable $decoded_result is not named in camelCase.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Validate\Validate.php:98	The variable $decoded_result is not named in camelCase.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\Validate\Validate.php:98	Avoid variables with short names like $ip. Configured minimum length is 3.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\ipweather\IpweatherController.php:67	Avoid variables with short names like $ip. Configured minimum length is 3.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\ipweather\IpweatherController.php:78	Missing class import via use statement (line '78', column '21').
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\jsonweather\JsonweatherController.php:65	Avoid unused local variables such as '$page'.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\jsonweather\JsonweatherController.php:67	Avoid variables with short names like $ip. Configured minimum length is 3.
+C:\cygwin64\home\hemdatorn\dbwebb-kurser\ramverk1\me\kmom05\temp\ipvader-master\src\jsonweather\JsonweatherController.php:78	Missing class import via use statement (line '78', column '21').
